@@ -10,4 +10,4 @@ A continuación les voy a mostrar algunas capturas de pantalla del videojuego.
 ![imagen](./imagenes/imagen2.png)
 
 ## Diagrama UML
-
+![imagen](./imagenes/ClaseUML.png)
