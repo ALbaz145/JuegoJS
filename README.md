@@ -11,3 +11,9 @@ A continuación les voy a mostrar algunas capturas de pantalla del videojuego.
 
 ## Diagrama UML
 ![imagen](./imagenes/ClaseUML.png)
+
+### Referencias
+- [The Nature of Code](https://natureofcode.com/)
+- [The Coding Train](https://www.youtube.com/@TheCodingTrain)
+- [p5.js](https://p5js.org/es/reference/)
+- [Processing](https://processing.org/)
